@@ -197,6 +197,6 @@ Full A1 poster: `docs/Phone_Use_vs_Sleep_Quality_poster.pdf`
 ## Citation
 
 If you use or reference this work:
-> Mhamad Shhab Aldeen Hasan & Hasma Nizam Bin Mohamad Hassan (2026).
+> Mhamad Shhab Aldeen Hasan.
 > *The Relationship Between Mobile Phone Usage and Sleep Quality Among Students.*
 > STQD6214 Case Study, Universiti Kebangsaan Malaysia.
